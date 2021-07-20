@@ -26,6 +26,11 @@ python iss_scraper.py --prov firenze
 ```
 you will generate the single-province dataset.
 
+In order to generate all the single-province dataset just issue
+```
+python iss_scraper.py --prov all
+```
+
 ## Provinces
 
 Available provinces are the following:
